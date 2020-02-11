@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		CEC0EE6C23F2D47100D7AF42 /* AtrCover.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AtrCover.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CEC0EE6C23F2D47100D7AF42 /* ArtCover.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ArtCover.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEC0EE6F23F2D47100D7AF42 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CEC0EE7423F2D47100D7AF42 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		CEC0EE7623F2D47300D7AF42 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		CEC0EE6D23F2D47100D7AF42 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CEC0EE6C23F2D47100D7AF42 /* AtrCover.app */,
+				CEC0EE6C23F2D47100D7AF42 /* ArtCover.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		CEC0EE6B23F2D47100D7AF42 /* AtrCover */ = {
+		CEC0EE6B23F2D47100D7AF42 /* ArtCover */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CEC0EE7E23F2D47300D7AF42 /* Build configuration list for PBXNativeTarget "AtrCover" */;
+			buildConfigurationList = CEC0EE7E23F2D47300D7AF42 /* Build configuration list for PBXNativeTarget "ArtCover" */;
 			buildPhases = (
 				CEC0EE6823F2D47100D7AF42 /* Sources */,
 				CEC0EE6923F2D47100D7AF42 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = AtrCover;
+			name = ArtCover;
 			productName = AtrCover;
-			productReference = CEC0EE6C23F2D47100D7AF42 /* AtrCover.app */;
+			productReference = CEC0EE6C23F2D47100D7AF42 /* ArtCover.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = CEC0EE6723F2D47100D7AF42 /* Build configuration list for PBXProject "AtrCover" */;
+			buildConfigurationList = CEC0EE6723F2D47100D7AF42 /* Build configuration list for PBXProject "ArtCover" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CEC0EE6B23F2D47100D7AF42 /* AtrCover */,
+				CEC0EE6B23F2D47100D7AF42 /* ArtCover */,
 			);
 		};
 /* End PBXProject section */
@@ -321,7 +321,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CEC0EE6723F2D47100D7AF42 /* Build configuration list for PBXProject "AtrCover" */ = {
+		CEC0EE6723F2D47100D7AF42 /* Build configuration list for PBXProject "ArtCover" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CEC0EE7C23F2D47300D7AF42 /* Debug */,
@@ -330,7 +330,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CEC0EE7E23F2D47300D7AF42 /* Build configuration list for PBXNativeTarget "AtrCover" */ = {
+		CEC0EE7E23F2D47300D7AF42 /* Build configuration list for PBXNativeTarget "ArtCover" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CEC0EE7F23F2D47300D7AF42 /* Debug */,
